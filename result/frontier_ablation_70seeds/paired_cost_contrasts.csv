@@ -1,0 +1,21 @@
+cost_metric,comparison,mean_paired_cost_difference,bootstrap_ci95_lower,bootstrap_ci95_upper
+path_coverage_cost,full_momentum - static_degree,-0.0009341081946495891,-0.0011434814601716395,-0.0007362048037241317
+path_coverage_cost,full_momentum - frontier_random,0.0,0.0,0.0
+path_coverage_cost,full_momentum - frontier_degree,0.0,0.0,0.0
+path_coverage_cost,full_momentum - observable_pressure,0.0,0.0,0.0
+intensity_adjusted_cost,full_momentum - static_degree,-0.00023352704866239568,-0.00028615932769460303,-0.00018429681786703248
+intensity_adjusted_cost,full_momentum - frontier_random,0.0,0.0,0.0
+intensity_adjusted_cost,full_momentum - frontier_degree,0.0,0.0,0.0
+intensity_adjusted_cost,full_momentum - observable_pressure,0.0,0.0,0.0
+temporal_suppression_cost,full_momentum - static_degree,-0.18633919471695265,-0.20578994231397935,-0.16720239841581722
+temporal_suppression_cost,full_momentum - frontier_random,-0.0016071965317690897,-0.00799122102874872,0.004732361866648756
+temporal_suppression_cost,full_momentum - frontier_degree,-0.004018083457670754,-0.012187642332428349,0.0035265729586828106
+temporal_suppression_cost,full_momentum - observable_pressure,-0.0005804177455604112,-0.005134030800363574,0.00428555521643709
+active_source_suppression_cost,full_momentum - static_degree,0.08882059975786571,0.07644081684895036,0.10123277953145497
+active_source_suppression_cost,full_momentum - frontier_random,-0.0016071965317690897,-0.007991113372693821,0.004777208353880239
+active_source_suppression_cost,full_momentum - frontier_degree,-0.004018083457670754,-0.012187577002890894,0.0038405148182151625
+active_source_suppression_cost,full_momentum - observable_pressure,-0.0005804177455604112,-0.005134259860256495,0.004062345636881046
+frontier_suppression_cost,full_momentum - static_degree,0.12783776796736404,0.1163534717665946,0.13975725754183405
+frontier_suppression_cost,full_momentum - frontier_random,-0.0010614303967630473,-0.00689787412740011,0.004620886179270053
+frontier_suppression_cost,full_momentum - frontier_degree,-0.0034437500212197805,-0.010798872033446871,0.0035829985260259216
+frontier_suppression_cost,full_momentum - observable_pressure,-0.0005248223905997755,-0.004664691614113127,0.0038716435325898673

@@ -1,0 +1,4 @@
+contrast,effect,f_value,df_numerator,df_denominator,p_value,partial_eta_squared
+WS - ER,change in topology contrast across kappa,11.057185971268233,10.0,690.0,1.2772776263618332e-17,0.13811609585223933
+BA - ER,change in topology contrast across kappa,1.4145790978262456,10.0,690.0,0.16920964426192117,0.020089292813367323
+SBM - ER,change in topology contrast across kappa,1.4129539749896791,10.0,690.0,0.16992843076850994,0.020066676587543155

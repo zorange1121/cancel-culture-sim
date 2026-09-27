@@ -1,0 +1,4 @@
+effect,f_value,df_numerator,df_denominator,p_value,partial_eta_squared,model
+topology,5.977816104763832,3.0,207.0,0.0006308113990615222,0.07972779703814316,two-factor repeated-measures ANOVA; random_seed is subject/block; topology and kappa are within-seed categorical factors
+kappa,178.86491664039568,10.0,690.0,4.1449468222122533e-184,0.7216225638737501,two-factor repeated-measures ANOVA; random_seed is subject/block; topology and kappa are within-seed categorical factors
+topology:kappa,4.030795176031644,30.0,2070.0,1.952701762615691e-12,0.05519308897453346,two-factor repeated-measures ANOVA; random_seed is subject/block; topology and kappa are within-seed categorical factors

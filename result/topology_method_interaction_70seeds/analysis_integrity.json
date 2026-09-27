@@ -1,0 +1,28 @@
+{
+  "rows": 7840,
+  "expected_rows": 7840,
+  "unique_runs": 7840,
+  "seeds": 70,
+  "topologies": [
+    "ER",
+    "WS",
+    "BA",
+    "SBM"
+  ],
+  "methods": [
+    "Static Random",
+    "Static Degree",
+    "Frontier Random",
+    "Frontier Degree",
+    "Observable Pressure",
+    "Pressure + Momentum (\u03bb=.35)",
+    "Oracle Margin"
+  ],
+  "budgets": [
+    0.001,
+    0.0025,
+    0.005,
+    0.01
+  ],
+  "missing_outcomes": 0
+}

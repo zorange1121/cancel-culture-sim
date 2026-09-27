@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local environments
+.runtime_deps/
+.runtime_deps_py313/
+.venv/
+venv/
+
+# 完整實驗產出，只上傳精選的 result/
+outputs/
+
+# 問卷與可能含個資的資料
+/*.xlsx
+
+# 根目錄舊結果圖；result/ 裡的圖片不受影響
+/*.png
+
+# 根目錄產生的摘要
+/topology_summary.csv
+/topology_summary.json
+
+# 內部研究規劃
+/cancel_culture_3step_implementation_plan.md
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

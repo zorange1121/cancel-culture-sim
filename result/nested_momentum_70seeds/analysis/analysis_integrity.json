@@ -1,0 +1,24 @@
+{
+  "rows": 4480,
+  "unique_runs": 4480,
+  "seeds": 70,
+  "topologies": [
+    "BA",
+    "ER",
+    "SBM",
+    "WS"
+  ],
+  "budgets": [
+    0.001,
+    0.0025,
+    0.005,
+    0.01
+  ],
+  "lambdas": [
+    0.0,
+    0.15,
+    0.35,
+    0.5
+  ],
+  "missing_final": 0
+}

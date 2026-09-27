@@ -1,0 +1,4 @@
+contrast,comparison,n_pairs,mean_difference,median_difference,std_difference,ci95_lower,ci95_upper,cohens_dz,fraction_positive,fraction_negative,fraction_zero,ci_method
+WS - ER,contrast at kappa 0.7 minus contrast at kappa 0.4,20,-0.17122,-0.01635000000000003,0.35381149099187653,-0.33680887494110623,-0.005631125058893793,-0.4839300145961941,0.5,0.5,0.0,paired t interval
+BA - ER,contrast at kappa 0.7 minus contrast at kappa 0.4,20,-0.1491,-0.056,0.4873544932646698,-0.3771889238813402,0.07898892388134016,-0.30593746864056837,0.35,0.65,0.0,paired t interval
+SBM - ER,contrast at kappa 0.7 minus contrast at kappa 0.4,20,0.007310000000000011,-0.011549999999999984,0.3567512193760742,-0.15965471017587224,0.17427471017587226,0.02049046955686527,0.4,0.6,0.0,paired t interval

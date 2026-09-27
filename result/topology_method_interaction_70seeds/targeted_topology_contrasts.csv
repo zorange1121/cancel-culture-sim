@@ -1,0 +1,65 @@
+budget,contrast,topology,left_method,right_method,mean_paired_difference,ci95_lower,ci95_upper,ci_excludes_zero
+0.001,Frontier information,ER,Frontier Random,Static Degree,-0.007832857142857141,-0.016731964285714284,-0.0015771071428571431,True
+0.001,Frontier information,WS,Frontier Random,Static Degree,-0.007541428571428574,-0.01152575,-0.003980000000000004,True
+0.001,Frontier information,BA,Frontier Random,Static Degree,-0.006710000000000003,-0.013762964285714292,-0.0011171071428571458,True
+0.001,Frontier information,SBM,Frontier Random,Static Degree,-0.006089999999999998,-0.013301499999999997,-0.0002898928571428567,True
+0.001,Pressure scoring,ER,Observable Pressure,Frontier Random,0.004200000000000001,-0.0025387857142857143,0.012857214285714284,False
+0.001,Pressure scoring,WS,Observable Pressure,Frontier Random,-0.0007571428571428556,-0.004114321428571428,0.002468571428571432,False
+0.001,Pressure scoring,BA,Observable Pressure,Frontier Random,-0.007674285714285714,-0.02241717857142857,0.0029688928571428505,False
+0.001,Pressure scoring,SBM,Observable Pressure,Frontier Random,-0.007551428571428571,-0.015263607142857145,-0.0009713571428571427,True
+0.001,Momentum addition,ER,Pressure + Momentum (λ=.35),Observable Pressure,-0.006482857142857141,-0.012184321428571426,-0.0022928571428571442,True
+0.001,Momentum addition,WS,Pressure + Momentum (λ=.35),Observable Pressure,-0.0013842857142857164,-0.004993035714285727,0.002110107142857135,False
+0.001,Momentum addition,BA,Pressure + Momentum (λ=.35),Observable Pressure,0.0014157142857142864,-0.009047392857142855,0.015803249999999994,False
+0.001,Momentum addition,SBM,Pressure + Momentum (λ=.35),Observable Pressure,-0.010111428571428573,-0.024331714285714286,0.0007472499999999967,False
+0.001,Oracle gap,ER,Oracle Margin,Pressure + Momentum (λ=.35),-0.018725714285714287,-0.031106321428571435,-0.008489714285714284,True
+0.001,Oracle gap,WS,Oracle Margin,Pressure + Momentum (λ=.35),-0.02964714285714286,-0.03997875,-0.019979964285714292,True
+0.001,Oracle gap,BA,Oracle Margin,Pressure + Momentum (λ=.35),-0.05947142857142858,-0.09868328571428571,-0.027844285714285714,True
+0.001,Oracle gap,SBM,Oracle Margin,Pressure + Momentum (λ=.35),-0.03167999999999999,-0.05145728571428572,-0.01562989285714286,True
+0.0025,Frontier information,ER,Frontier Random,Static Degree,-0.015005714285714285,-0.03020207142857143,-0.004048464285714287,True
+0.0025,Frontier information,WS,Frontier Random,Static Degree,-0.016538571428571423,-0.023644642857142854,-0.010328535714285714,True
+0.0025,Frontier information,BA,Frontier Random,Static Degree,-0.03464142857142857,-0.05585399999999999,-0.016841321428571428,True
+0.0025,Frontier information,SBM,Frontier Random,Static Degree,-0.02887142857142857,-0.05164149999999999,-0.01025832142857143,True
+0.0025,Pressure scoring,ER,Observable Pressure,Frontier Random,0.00118857142857143,-0.00766435714285714,0.01255860714285714,False
+0.0025,Pressure scoring,WS,Observable Pressure,Frontier Random,0.0011514285714285702,-0.004220000000000006,0.007011428571428566,False
+0.0025,Pressure scoring,BA,Observable Pressure,Frontier Random,-0.0036985714285714287,-0.017304357142857146,0.007853214285714278,False
+0.0025,Pressure scoring,SBM,Observable Pressure,Frontier Random,-0.0034614285714285715,-0.010377142857142856,0.002855750000000001,False
+0.0025,Momentum addition,ER,Pressure + Momentum (λ=.35),Observable Pressure,-0.0015071428571428564,-0.007738571428571428,0.007272999999999999,False
+0.0025,Momentum addition,WS,Pressure + Momentum (λ=.35),Observable Pressure,-0.0071400000000000005,-0.01343857142857143,-0.001372857142857142,True
+0.0025,Momentum addition,BA,Pressure + Momentum (λ=.35),Observable Pressure,-0.0006071428571428607,-0.01941121428571429,0.01965678571428569,False
+0.0025,Momentum addition,SBM,Pressure + Momentum (λ=.35),Observable Pressure,0.0004500000000000003,-0.007630428571428568,0.008627250000000001,False
+0.0025,Oracle gap,ER,Oracle Margin,Pressure + Momentum (λ=.35),-0.040179999999999993,-0.06557910714285714,-0.01996275,True
+0.0025,Oracle gap,WS,Oracle Margin,Pressure + Momentum (λ=.35),-0.0513857142857143,-0.07009557142857144,-0.035170000000000014,True
+0.0025,Oracle gap,BA,Oracle Margin,Pressure + Momentum (λ=.35),-0.06652857142857142,-0.11639035714285717,-0.025722607142857144,True
+0.0025,Oracle gap,SBM,Oracle Margin,Pressure + Momentum (λ=.35),-0.07297142857142858,-0.10824914285714286,-0.0434832142857143,True
+0.005,Frontier information,ER,Frontier Random,Static Degree,-0.026707142857142853,-0.05038907142857143,-0.009569607142857145,True
+0.005,Frontier information,WS,Frontier Random,Static Degree,-0.030245714285714292,-0.04273878571428572,-0.019498464285714286,True
+0.005,Frontier information,BA,Frontier Random,Static Degree,-0.07555285714285713,-0.114893,-0.04110389285714287,True
+0.005,Frontier information,SBM,Frontier Random,Static Degree,-0.04583714285714286,-0.07225903571428571,-0.023580285714285727,True
+0.005,Pressure scoring,ER,Observable Pressure,Frontier Random,0.005555714285714288,-0.009227642857142858,0.027561785714285712,False
+0.005,Pressure scoring,WS,Observable Pressure,Frontier Random,-0.008095714285714282,-0.01669449999999999,-0.00037996428571428355,True
+0.005,Pressure scoring,BA,Observable Pressure,Frontier Random,0.008850000000000005,-0.007110142857142854,0.026458678571428577,False
+0.005,Pressure scoring,SBM,Observable Pressure,Frontier Random,-0.0008485714285714295,-0.02409717857142857,0.019456142857142828,False
+0.005,Momentum addition,ER,Pressure + Momentum (λ=.35),Observable Pressure,-0.019827142857142856,-0.041971714285714286,-0.004267142857142858,True
+0.005,Momentum addition,WS,Pressure + Momentum (λ=.35),Observable Pressure,-0.011104285714285716,-0.020285857142857144,-0.0023051785714285804,True
+0.005,Momentum addition,BA,Pressure + Momentum (λ=.35),Observable Pressure,-0.02786714285714286,-0.05504046428571428,-0.006131285714285718,True
+0.005,Momentum addition,SBM,Pressure + Momentum (λ=.35),Observable Pressure,-0.01811857142857143,-0.03850471428571428,-5.3928571428608305e-06,True
+0.005,Oracle gap,ER,Oracle Margin,Pressure + Momentum (λ=.35),-0.047924285714285704,-0.07992792857142858,-0.02251885714285716,True
+0.005,Oracle gap,WS,Oracle Margin,Pressure + Momentum (λ=.35),-0.056524285714285714,-0.07894446428571428,-0.03704182142857143,True
+0.005,Oracle gap,BA,Oracle Margin,Pressure + Momentum (λ=.35),-0.02484428571428571,-0.0589895357142857,0.00033621428571427927,False
+0.005,Oracle gap,SBM,Oracle Margin,Pressure + Momentum (λ=.35),-0.07464571428571427,-0.11068607142857143,-0.04375567857142856,True
+0.01,Frontier information,ER,Frontier Random,Static Degree,-0.05611571428571428,-0.09372592857142857,-0.02488696428571429,True
+0.01,Frontier information,WS,Frontier Random,Static Degree,-0.07306571428571428,-0.10206371428571427,-0.04888082142857143,True
+0.01,Frontier information,BA,Frontier Random,Static Degree,-0.11945142857142856,-0.17444082142857142,-0.06976539285714288,True
+0.01,Frontier information,SBM,Frontier Random,Static Degree,-0.09115999999999999,-0.13908849999999998,-0.05138853571428571,True
+0.01,Pressure scoring,ER,Observable Pressure,Frontier Random,-0.005064285714285716,-0.01648903571428571,0.0028643571428571377,False
+0.01,Pressure scoring,WS,Observable Pressure,Frontier Random,0.007154285714285718,-0.005190107142857135,0.019783071428571435,False
+0.01,Pressure scoring,BA,Observable Pressure,Frontier Random,-0.006304285714285713,-0.036173,0.015793,False
+0.01,Pressure scoring,SBM,Observable Pressure,Frontier Random,0.0017057142857142837,-0.011726642857142859,0.01602910714285713,False
+0.01,Momentum addition,ER,Pressure + Momentum (λ=.35),Observable Pressure,-0.0015542857142857112,-0.0138915,0.012955750000000002,False
+0.01,Momentum addition,WS,Pressure + Momentum (λ=.35),Observable Pressure,-0.026848571428571433,-0.040161535714285705,-0.014863785714285727,True
+0.01,Momentum addition,BA,Pressure + Momentum (λ=.35),Observable Pressure,-0.0023528571428571487,-0.02397464285714286,0.025638928571428556,False
+0.01,Momentum addition,SBM,Pressure + Momentum (λ=.35),Observable Pressure,-0.018922857142857148,-0.038963071428571444,-0.001932535714285717,True
+0.01,Oracle gap,ER,Oracle Margin,Pressure + Momentum (λ=.35),-0.09425428571428572,-0.14379125,-0.0507997142857143,True
+0.01,Oracle gap,WS,Oracle Margin,Pressure + Momentum (λ=.35),-0.07166714285714285,-0.10303135714285712,-0.04402996428571429,True
+0.01,Oracle gap,BA,Oracle Margin,Pressure + Momentum (λ=.35),-0.03836285714285715,-0.07538582142857143,-0.010662857142857142,True
+0.01,Oracle gap,SBM,Oracle Margin,Pressure + Momentum (λ=.35),-0.06609142857142856,-0.10829885714285717,-0.030335464285714295,True

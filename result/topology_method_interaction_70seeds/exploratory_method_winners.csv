@@ -1,0 +1,17 @@
+budget,topology,best_by_mean,best_mean_final,runner_up,runner_up_mean_final,best_minus_runner_up,ci95_lower,ci95_upper,ci_excludes_zero,note
+0.001,ER,Pressure + Momentum (λ=.35),0.37296142857142855,Frontier Random,0.3752442857142857,-0.002282857142857142,-0.01242585714285714,0.008037357142857141,False,Exploratory: winner selected from the same data
+0.001,WS,Pressure + Momentum (λ=.35),0.5057128571428572,Observable Pressure,0.5070971428571429,-0.0013842857142857164,-0.004965714285714287,0.0021142857142857083,False,Exploratory: winner selected from the same data
+0.001,BA,Observable Pressure,0.43,Pressure + Momentum (λ=.35),0.4314157142857143,-0.0014157142857142864,-0.015412964285714285,0.008931749999999997,False,Exploratory: winner selected from the same data
+0.001,SBM,Pressure + Momentum (λ=.35),0.4067414285714286,Observable Pressure,0.41685285714285714,-0.010111428571428573,-0.024357857142857146,0.0007943214285714252,False,Exploratory: winner selected from the same data
+0.0025,ER,Pressure + Momentum (λ=.35),0.3619057142857143,Frontier Random,0.3622242857142857,-0.0003185714285714272,-0.012055785714285712,0.013266142857142855,False,Exploratory: winner selected from the same data
+0.0025,WS,Pressure + Momentum (λ=.35),0.4853585714285714,Frontier Random,0.49134714285714287,-0.00598857142857143,-0.010874321428571431,-0.0011428571428571455,True,Exploratory: winner selected from the same data
+0.0025,BA,Pressure + Momentum (λ=.35),0.40323,Observable Pressure,0.40383714285714284,-0.0006071428571428607,-0.018851428571428575,0.02011571428571426,False,Exploratory: winner selected from the same data
+0.0025,SBM,Frontier Degree,0.38802714285714285,Observable Pressure,0.3882071428571428,-0.00018000000000000188,-0.009139107142857142,0.008088714285714279,False,Exploratory: winner selected from the same data
+0.005,ER,Pressure + Momentum (λ=.35),0.33014571428571426,Frontier Degree,0.3406828571428571,-0.010537142857142858,-0.025975714285714283,-0.0003897500000000065,True,Exploratory: winner selected from the same data
+0.005,WS,Pressure + Momentum (λ=.35),0.4491828571428571,Observable Pressure,0.4602871428571429,-0.011104285714285716,-0.020331571428571425,-0.002742642857142864,True,Exploratory: winner selected from the same data
+0.005,BA,Pressure + Momentum (λ=.35),0.3440914285714286,Frontier Degree,0.3535285714285714,-0.00943714285714286,-0.032845821428571426,0.017132999999999992,False,Exploratory: winner selected from the same data
+0.005,SBM,Pressure + Momentum (λ=.35),0.3423357142857143,Frontier Degree,0.35937857142857144,-0.017042857142857144,-0.044474392857142865,0.0044602142857142835,False,Exploratory: winner selected from the same data
+0.01,ER,Pressure + Momentum (λ=.35),0.29216,Observable Pressure,0.2937142857142857,-0.0015542857142857112,-0.013647428571428569,0.013470678571428564,False,Exploratory: winner selected from the same data
+0.01,WS,Pressure + Momentum (λ=.35),0.3853,Frontier Random,0.4049942857142857,-0.019694285714285716,-0.029051464285714288,-0.011039964285714285,True,Exploratory: winner selected from the same data
+0.01,BA,Pressure + Momentum (λ=.35),0.29709142857142856,Observable Pressure,0.2994442857142857,-0.0023528571428571487,-0.024010071428571433,0.026322928571428542,False,Exploratory: winner selected from the same data
+0.01,SBM,Pressure + Momentum (λ=.35),0.2704885714285714,Frontier Degree,0.2870357142857143,-0.016547142857142857,-0.03496578571428571,-0.0015867857142857207,True,Exploratory: winner selected from the same data

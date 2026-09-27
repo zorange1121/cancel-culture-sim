@@ -1,0 +1,8 @@
+{
+  "feature_rows": 840,
+  "feature_duplicates": 0,
+  "test_seed_clusters": 10,
+  "intervention_rows": 680,
+  "paired_ignition_all_match": true,
+  "bootstrap_replicates": 10000
+}
